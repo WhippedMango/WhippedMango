@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @WhippedMango
+- 👀 I’m interested in coding in general, particularly OOP and algorithms
+- 🌱 I’m currently learning C#
+- 💞️ I’m looking to collaborate on anything you can throw at me! I've once attempted at making a musical chessboard which I would like to go back to
